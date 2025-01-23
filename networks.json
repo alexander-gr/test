@@ -1,0 +1,14 @@
+{
+    "records": [
+        {
+            "network": "0xfCa0128A19A5c06b0148c27ee7623417a11BaAbd",
+            "name": "radius",
+            "url": "https://theradius.xyz"
+        },
+        {
+            "network": "0x5112EbA9bc2468Bb5134CBfbEAb9334EdaE7106a",
+            "name": "Symbiosis",
+            "url": "https://app.symbiosis.finance/swap"
+        }
+    ]
+}
