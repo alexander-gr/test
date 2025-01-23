@@ -1,4 +1,6 @@
-[
+{
+    "records": 
+    [
     {
         "address": "0x3a7B173124DcFeCff1847FF7f8f56e72ABE02340",
         "name": "Kalypso",
@@ -55,4 +57,5 @@
           }
         ]
       }
-]
+    ]
+}
